@@ -4,6 +4,7 @@ public class yinesh{
         System.out.println((a+b));
         System.out.println((a-b));
         System.out.println("YINESH");
+        System.out.println("YINESH");
 
     }
 }
